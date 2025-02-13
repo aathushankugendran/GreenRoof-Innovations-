@@ -16,17 +16,44 @@ GreenRoof Innovations is a startup focused on promoting sustainable urban develo
 - **Partnerships:** Collaborations with municipalities, commercial spaces, and residential communities to promote sustainable urban development.
 - **Data Monetization:** Anonymized user data provides insights to researchers and policymakers on green roof performance and urban sustainability strategies.
 
-## Software Development
+## Tech Stack
 
-- **Mobile App Development:** Built using Flutter or React Native for cross-platform compatibility.
-- **Web Platform:** Developed with Node.js and Express for the backend, and React for the frontend.
-- **AI and Machine Learning:** Python with TensorFlow or PyTorch for developing AI models to provide personalized recommendations and predictive analytics.
+- **Frontend:** Flutter (for cross-platform mobile app development)
+- **Backend:** Node.js with Express
+- **Database:** MongoDB (for storing user data, sensor data, and analytics)
+- **AI/ML:** Python with TensorFlow or PyTorch (for predictive analytics and personalized recommendations)
+- **Cloud:** AWS or Google Cloud (for hosting and scalability)
 
-## Impact
+## App Structure
 
-- **Sustainable Urban Development:** Reduces urban heat island effects and improves energy efficiency.
-- **Biodiversity Enhancement:** Provides habitats for local wildlife and promotes biodiversity.
-- **Air Quality Improvement:** Reduces air pollution through natural filtration.
-- **Community Engagement:** Encourages collaboration in promoting sustainable urban development practices.
+1. **Home Screen:**
+   - **Dashboard:** Overview of green roof health, real-time data, and alerts.
+   - **Quick Stats:** Soil moisture, temperature, plant health, and water usage.
+   - **Notifications:** Alerts for watering needs, pest infestations, or maintenance issues.
+
+2. **Green Roof Monitoring:**
+   - **Real-Time Data:** Live updates on soil moisture, temperature, and plant health.
+   - **Historical Data:** Graphs and charts showing historical data trends.
+   - **Sensor Status:** Information on the status of each sensor.
+
+3. **Analytics:**
+   - **Usage Analytics:** Detailed analysis of water usage, energy savings, and plant health.
+   - **Performance Reports:** Weekly and monthly reports on green roof performance.
+   - **Predictive Analytics:** Future trends and recommendations based on historical data.
+
+4. **Maintenance:**
+   - **Predictive Maintenance:** Alerts and recommendations for maintenance tasks.
+   - **Maintenance Log:** History of maintenance activities and scheduled tasks.
+   - **Troubleshooting Guide:** Tips and guides for common issues.
+
+5. **Community:**
+   - **Community Challenges:** Challenges and rewards for improving green roof performance.
+   - **Forum:** Discussion board for users to share tips and experiences.
+   - **Educational Content:** Articles and videos on green roof benefits and plant care techniques.
+
+6. **Settings:**
+   - **Profile:** User profile management.
+   - **Notifications:** Customize alert and notification settings.
+   - **Integrations:** Connect with other smart home devices or services.
 
 By combining innovative green roof technology with a comprehensive software platform, GreenRoof Innovations aims to create more sustainable and resilient urban environments.
